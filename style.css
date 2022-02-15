@@ -1,0 +1,30 @@
+.section-bg{
+    background-color: #F6F5FA;
+}
+.center-item{
+    display: flex;
+    align-items: center;
+}
+.product-image{
+    width:125px;
+}
+.quantity-input{
+    width:60px;
+    border: none;
+    outline: none;
+    background-color: #F6F5FA;
+    margin:0 10px;
+    font-size:20px;
+    
+
+}
+.remove-img{
+    width:25px;
+}
+.btn-bg{
+    background-color: #2FBE70;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    margin-top:20px;
+}
